@@ -3,6 +3,7 @@ package webSocket;
 import java.awt.*;
 import java.awt.event.InputEvent;
 import java.io.*;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * @Author auguszero
@@ -11,8 +12,9 @@ import java.io.*;
  */
 public class Boot {
 
-    public static boolean flage = true ;
+    public static boolean flage = false ;
     public static int index = 0;
+    public static ReentrantLock reentrantLock = new ReentrantLock();
 
     public static void main(String[] args) throws FileNotFoundException {
         int args1 = Integer.parseInt(args[0]);
@@ -24,7 +26,7 @@ public class Boot {
         int num = Integer.parseInt(args[6]);
 //        KeyFrame keyFrame = new KeyFrame();
 //        System.out.println(getStatus());
-//        KeyAd keyAd = new KeyAd();
+        KeyAd keyAd = new KeyAd();
         buttonInsert(args1, args2, args3, args4, args5, args6,num);
         while (true) {
             System.out.println(1);
@@ -49,6 +51,7 @@ public class Boot {
                 Robot robot  = null;
                 try {
                     robot = new Robot();
+                    robot.mouseMove(args1,args2);
                     while (true) {
                         System.out.println("按钮1....");
                         if(index<num){
@@ -58,9 +61,11 @@ public class Boot {
                             return;
                         }
                         if(flage) {
-                            robot.mouseMove(args1,args2);
+                            reentrantLock.lock();
+
                             robot.mousePress(InputEvent.BUTTON1_MASK);
                             robot.mouseRelease(InputEvent.BUTTON1_MASK);
+                            reentrantLock.unlock();
                         }
                     }
                 } catch (AWTException e) {
@@ -76,7 +81,7 @@ public class Boot {
                 Robot robot1  = null;
                 try {
                     robot1 = new Robot();
-
+                    robot1.mouseMove(args3,args4);
                     while (true) {
                         System.out.println("按钮2....");
                         if(index<num){
@@ -86,9 +91,11 @@ public class Boot {
                             return;
                         }
                         if(flage) {
-                            robot1.mouseMove(args3,args4);
+                            reentrantLock.lock();
+
                             robot1.mousePress(InputEvent.BUTTON1_MASK);
                             robot1.mouseRelease(InputEvent.BUTTON1_MASK);
+                            reentrantLock.unlock();
                         }
                     }
                 } catch (AWTException e) {
@@ -103,7 +110,7 @@ public class Boot {
                 Robot robot2  = null;
                 try {
                     robot2 = new Robot();
-
+                    robot2.mouseMove(args5,args6);
                     while (true) {
                         System.out.println("按钮3....");
                         if(index<num){
@@ -113,9 +120,11 @@ public class Boot {
                             return;
                         }
                         if(flage) {
-                            robot2.mouseMove(args5,args6);
+                            reentrantLock.lock();
+
                             robot2.mousePress(InputEvent.BUTTON1_MASK);
                             robot2.mouseRelease(InputEvent.BUTTON1_MASK);
+                            reentrantLock.unlock();
                         }
                     }
                 } catch (AWTException e) {
