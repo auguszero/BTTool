@@ -84,13 +84,14 @@ public class KeyAd extends JFrame implements ActionListener {
             public void onHotKey(int markCode) {
                 switch (markCode) {
                     case GLOBAL_HOT_KEY_1:
-                        Boot.flage = true;
+//                        Boot.flage = true;
+                        Boot1.flage = true;
                         System.out.println("boot 已启动");
                         JOptionPane.showMessageDialog(null, "提示快捷键(D):开始！", "提示消息", JOptionPane.WARNING_MESSAGE);
                         break;
                     case GLOBAL_HOT_KEY_2:
                         System.out.println("boot 已关闭");
-                        Boot.flage = false;
+                        Boot1.flage = false;
                         JOptionPane.showMessageDialog(null, "提示快捷键(Shift+D):结束！", "提示消息", JOptionPane.WARNING_MESSAGE);
                         break;
 //                    case GLOBAL_HOT_KEY_3:
