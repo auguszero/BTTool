@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6988cff0-21ec-43b8-87c3-0ecde532e3f0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_avro_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_dropwizard_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_5_0_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_7_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_24_Final_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_statebackend_rocksdb_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_force_shading_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_config_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_avro_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_clients_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_java_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_5_0_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_7_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_24_Final_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_statebackend_rocksdb_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_table_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_force_shading_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_tukaani_xz_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/SourceFunctionE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/TimeStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/iterator/IteratorStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/CounterMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/GaugeMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramDropWizardMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterDropWizardMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/model/EModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableResouce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableStreamingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/BTJAVA18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/java18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalDateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/stream/StreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/test/java/com/bttool/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/controller/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/model/ResponseBackResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/service/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/urlMain/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/webMagic/WebMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaTooRepository" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/09afa861-d5be-45b4-be96-cef2c0124795" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/18feba59-ec66-4e0d-ac25-8d03dc9b01fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/1e687235-8b7d-4438-9fa9-a01590fc21cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/21a9326d-aa6c-4b23-a4c5-76465aba3784" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/227ee910-c056-47c8-9828-58ceed213cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/352c9275-0279-4008-b9f5-b4216a239f13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4191beca-27b3-44d5-b0ad-166c64818c6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/42d742e9-1391-41b4-899d-86229ae6815e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4a3251bd-e086-41a7-b38d-e14088cecb37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/8bdcc61e-04c6-4333-adfa-90ce9861acbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-25/f779411e-336e-4034-987c-0a4a1974b1f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/029e5fa5-a083-4068-b393-717cc687d033" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/0359a66e-2af5-49f9-a926-41fe47c0902b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/07406faa-e364-4bc6-b448-dfefac35ff4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/15be8a1e-f489-44d4-82b7-2c1e1bce0143" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/17740108-8d10-4c3e-a486-25b720edba43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/1e4c0794-6c62-4bcb-ab74-46a6a0157f7a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/2ed2d515-5c79-4cad-a528-f016a35734ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/4de498ae-aec3-4a90-9cad-b139960f4b96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/711bb095-7eea-435e-8d75-77f16c9cf9d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/ca4b168a-b886-4acb-995b-4ce4edaa0c9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/28d37c65-571c-4b4c-8d39-473d156448bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/2e3e41b3-2fdb-4b9a-a06f-333880fd308a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/50aea0dc-2c49-47c2-9365-0f8a6c6b86c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/5965f992-6725-4a7b-a977-ff671efdbbe7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/79491bb9-19be-492f-8eec-4ab4f8d292fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/84bdb4e5-0a42-436e-b58f-44125fc52f11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/8b83d2d4-f8a3-4efc-bf3c-19d2de23639e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e63e1c8f-7159-4157-ae9d-29278cfe1d40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e95a952f-d90d-4cd7-8122-52d05824ca49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/f2f23c88-74bd-403e-9309-25a7186f46e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/0d599a8c-3955-40d9-9d95-0baf3665a68f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/6450a896-3a52-410f-bd7e-43754f2e1b94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/81a1664b-985f-4ab6-bab0-ff4a047fd116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/84c64344-5798-4f54-a12f-98176c5d564c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/8853017e-a884-4916-ba28-2922e4f0a518" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/96fefad3-48e6-499b-ae07-b4550cff8812" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/9dd93b2a-883f-4cd9-af13-efa83b172392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/afd82572-b17c-4160-b4b4-5eac566021fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/e35082b3-bcb5-487f-8907-cc61e0efa764" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/ea636aed-024e-409c-b44d-579c6f21b290" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/0e9476c0-3aef-47a1-9e77-9f8613e9b51f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/2d118b11-051d-4115-8bb9-ce647b139242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/38f3c533-d95a-49e5-961f-d29ab9bc80b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/5e0db326-3b43-4dd9-9ea4-b039b7f4e7c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/81be2b1c-d3af-4be0-97e8-74342da81e06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/bd80f96c-2008-4596-8f38-1b7a6b419001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/c12ff7ce-e7c6-45ec-b345-92fbcfd77f2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/cd359e70-399a-4890-9d8c-8b93932b0f45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/e2aef0cc-7f4e-4f13-b007-20919cfd94dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/f12b0d2b-f18b-4979-bad2-b699e9815a56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/java/webMagic/WebMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/java/webMagic/WebMagic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/resource/guessGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/webmagic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GrepConsole.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4a7156d4-45d7-447e-ab20-880f1e7acf35.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4a7156d4-45d7-447e-ab20-880f1e7acf35.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Flink/BT-Flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Flink/BT-Flink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Flink/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Flink/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Spark/auguszero-BTSaprk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Spark/auguszero-BTSaprk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auguszero-BTTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auguszero-BTTool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/BT-Spark/target/" />
+    <ignored path="$PROJECT_DIR$/BT-Flink/target/" />
+    <ignored path="$PROJECT_DIR$/BT-JAVA18/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-Hbase/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstantDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutMemory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2138#2146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/resource/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="UserModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaDemo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaConsumer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="91" column="35" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>localhost</find>
+      <find>localhost:</find>
+      <find>parallelism</find>
+      <find>tuple</find>
+      <find>om.bttool.dataStream.</find>
+      <find>org/apache/flink/streaming/api/functions/AssignerWithPeriodicWatermarks</find>
+      <find>juni</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/Demo1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/Generator.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/DataSetAllroundTestProgram.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/artificialstate/builder/ArtificialListStateBuilder.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/FailureMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/avro/ComplexPayloadAvro.avsc" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/artificialstate/ComplexPayload.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/artificialstate/ArtificialKeyedStateMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/DataStreamAllroundTestJobFactory.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/resource/log4j.properties" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/scala/bttool/dataStream/DataStreamAllroundTestProgram.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/scala/com/bttool/table/TableDemo.scala" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableResouce.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/DataStreamAllroundTestProgram.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableStreamingDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/iterator/IteratorStreaming.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/TimeStreaming.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/stream/StreamDemo1.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalDateDemo.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalTimeDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/GaugeMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/CounterMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramDropWizardMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterDropWizardMyMapper.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/algorithm/dichotomyDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/algorithm/DichotomyDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/algorithm/AlgorithmDemo.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeSource.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/model/EModel.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/SourceFunctionE.java" />
+        <option value="$PROJECT_DIR$/BT-Flink/pom.xml" />
+        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeDemo01.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/pom.xml" />
+        <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java" />
+        <option value="$PROJECT_DIR$/webmagic/src/main/resource/scriptFile.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="jdk17" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BT-Flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BT-Flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BT-Flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BT-Flink" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="avro" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Flink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-JAVA18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-JAVA18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-JAVA18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-JAVA18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-JAVA18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bttool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BT-Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTooRepository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTooRepository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTooRepository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="javaTooRepository" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="org/apache/flink/streaming/api/functions/AssignerWithPeriodicWatermarks&#9;FILE&#9;jar:///Users/auguszero/.m2/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/functions/AssignerWithPeriodicWatermarks.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bttool.debugging.metrics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main/scala" />
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main" />
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream" />
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main/resource" />
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OutMemory.OOMError">
+    <configuration name="InitLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bttool.lock.InitLock" />
+      <module name="BTJAVA18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="OutMemory.OOMError" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="BTJAVA18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bttool.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.bttool.jvm.OutMemory" />
+      <option name="METHOD_NAME" value="OOMError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+HeapDumpOnOutOfMemoryError" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OutMemory.StatckOOMError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTJAVA18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bttool.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.bttool.jvm.OutMemory" />
+      <option name="METHOD_NAME" value="StatckOOMError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OutMemory.StatckOverFlowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTJAVA18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bttool.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.bttool.jvm.OutMemory" />
+      <option name="METHOD_NAME" value="StatckOverFlowError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OutMemory.constantPoolOOMError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTJAVA18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bttool.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.bttool.jvm.OutMemory" />
+      <option name="METHOD_NAME" value="constantPoolOOMError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+HeapDumpOnOutOfMemoryError" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OutMemory.methodOOMError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTJAVA18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bttool.jvm" />
+      <option name="MAIN_CLASS_NAME" value="com.bttool.jvm.OutMemory" />
+      <option name="METHOD_NAME" value="methodOOMError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-XX:PermSize=10M -XX:MaxPermSize=10M " />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OutMemory.OOMError" />
+      <item itemvalue="Application.InitLock" />
+      <item itemvalue="JUnit.OutMemory.StatckOverFlowError" />
+      <item itemvalue="JUnit.OutMemory.StatckOOMError" />
+      <item itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+      <item itemvalue="JUnit.OutMemory.methodOOMError" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OutMemory.methodOOMError" />
+        <item itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+        <item itemvalue="JUnit.OutMemory.StatckOOMError" />
+        <item itemvalue="JUnit.OutMemory.StatckOverFlowError" />
+        <item itemvalue="Application.InitLock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6988cff0-21ec-43b8-87c3-0ecde532e3f0" name="Default" comment="" />
+      <created>1547645304524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547645304524</updated>
+      <workItem from="1547645306248" duration="6142000" />
+      <workItem from="1547651741939" duration="1391000" />
+      <workItem from="1547698222787" duration="2905000" />
+      <workItem from="1547780840813" duration="617000" />
+      <workItem from="1548052926956" duration="521000" />
+      <workItem from="1548053754064" duration="4251000" />
+      <workItem from="1548141424886" duration="621000" />
+      <workItem from="1548224255336" duration="12000" />
+      <workItem from="1548229256080" duration="140000" />
+      <workItem from="1548229713544" duration="974000" />
+      <workItem from="1548301052736" duration="2757000" />
+      <workItem from="1548401837387" duration="1216000" />
+      <workItem from="1548642858134" duration="424000" />
+      <workItem from="1548655621563" duration="4049000" />
+      <workItem from="1548742811900" duration="2167000" />
+      <workItem from="1548816615357" duration="263000" />
+      <workItem from="1550215216332" duration="343000" />
+      <workItem from="1550373910678" duration="288000" />
+      <workItem from="1551162241913" duration="510000" />
+      <workItem from="1551250732992" duration="598000" />
+      <workItem from="1551412282677" duration="596000" />
+      <workItem from="1551765535476" duration="2229000" />
+      <workItem from="1551947599542" duration="592000" />
+      <workItem from="1551959314328" duration="261000" />
+      <workItem from="1553157867222" duration="442000" />
+      <workItem from="1553158955661" duration="1286000" />
+      <workItem from="1553238234643" duration="1697000" />
+      <workItem from="1553244481822" duration="568000" />
+      <workItem from="1553295844443" duration="1353000" />
+      <workItem from="1553503122643" duration="1321000" />
+      <workItem from="1553570792951" duration="38000" />
+      <workItem from="1553570858555" duration="4353000" />
+      <workItem from="1553679942017" duration="812000" />
+    </task>
+    <task id="LOCAL-00001" summary="flink-first">
+      <created>1547713200716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547713200716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OutMemory_StatckOverFlowError - 2019.03.26 at 15h 03m 57s.xml">
+      <configuration name="OutMemory.StatckOverFlowError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_StatckOOMError - 2019.03.26 at 15h 07m 24s.xml">
+      <configuration name="OutMemory.StatckOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_constantPoolOOMError - 2019.03.26 at 15h 22m 13s.xml">
+      <configuration name="OutMemory.constantPoolOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_constantPoolOOMError - 2019.03.26 at 15h 23m 20s.xml">
+      <configuration name="OutMemory.constantPoolOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_methodOOMError - 2019.03.26 at 15h 26m 27s.xml">
+      <configuration name="OutMemory.methodOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_methodOOMError - 2019.03.26 at 15h 27m 09s.xml">
+      <configuration name="OutMemory.methodOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_methodOOMError - 2019.03.26 at 15h 27m 30s.xml">
+      <configuration name="OutMemory.methodOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_methodOOMError - 2019.03.26 at 15h 28m 08s.xml">
+      <configuration name="OutMemory.methodOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_methodOOMError - 2019.03.26 at 15h 30m 51s.xml">
+      <configuration name="OutMemory.methodOOMError" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutMemory_OOMError - 2019.03.26 at 15h 34m 47s.xml">
+      <configuration name="OutMemory.OOMError" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.36205128" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30666667" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2851038" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="bottom" id="Tail" order="8" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4851282" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32820514" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30769232" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32820514" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.36205128" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32967034" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2820513" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4851282" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flink-first" />
+    <option name="LAST_COMMIT_MESSAGE" value="flink-first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java</url>
+          <line>24</line>
+          <properties class="com.bttool.jvm.OutMemory" method="OOMError">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="numRecords % numPartitions == 0" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>numRecords % numPartitions == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0.jar!/org/apache/flink/table/api/java/StreamTableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0-sources.jar!/org/apache/flink/table/api/java/StreamTableEnvironment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="126" column="6" selection-start-line="126" selection-start-column="6" selection-end-line="126" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableStreamingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="51" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.7.0/flink-java-1.7.0.jar!/org/apache/flink/api/java/ExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="448" column="39" selection-start-line="448" selection-start-column="39" selection-end-line="448" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/DataSetAllroundTestProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/iterator/IteratorStreaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="94" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/datastream/WindowedStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6840">
+          <caret line="511" column="10" selection-start-line="511" selection-start-column="10" selection-end-line="511" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.7.0/flink-java-1.7.0-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14310">
+          <caret line="1058" selection-start-line="1058" selection-end-line="1058" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/functions/AssignerWithPeriodicWatermarks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/artificialstate/builder/ArtificialValueStateBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/java18.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6540">
+          <caret line="468" column="15" selection-start-line="468" selection-start-column="13" selection-end-line="468" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/DataTime.java" />
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/stream/StreamDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="234" column="44" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15990">
+          <caret line="1160" column="42" selection-start-line="1160" selection-start-column="42" selection-end-line="1160" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="312" column="28" selection-start-line="312" selection-start-column="28" selection-end-line="312" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalDateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="54" column="56" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalTimeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/CounterMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/GaugeMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-metrics-core/1.7.0/flink-metrics-core-1.7.0.jar!/org/apache/flink/metrics/MetricGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/dropwizard/metrics/metrics-core/3.1.5/metrics-core-3.1.5.jar!/com/codahale/metrics/Histogram.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-metrics-dropwizard/1.7.0/flink-metrics-dropwizard-1.7.0.jar!/org/apache/flink/dropwizard/metrics/DropwizardHistogramWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramDropWizardMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/algorithm/DichotomyDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/algorithm/AlgorithmDemo.java" />
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterDropWizardMyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/model/EModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeSource.java" />
+    <entry file="file://$PROJECT_DIR$/BT-Flink/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/TimeStreaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6090">
+          <caret line="504" column="33" selection-start-line="504" selection-start-column="17" selection-end-line="504" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.7.0/flink-core-1.7.0.jar!/org/apache/flink/api/common/functions/MapFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="246" column="54" selection-start-line="246" selection-start-column="54" selection-end-line="246" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/SourceFunctionE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/DataStreamAllroundTestJobFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1385">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/DataStreamAllroundTestProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1028">
+          <caret line="73" column="100" selection-start-line="73" selection-start-column="100" selection-end-line="73" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Hbase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2138#2146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webmagic/src/main/resource/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Flink/src/main/resource/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BTJAVA18</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

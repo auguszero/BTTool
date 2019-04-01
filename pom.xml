@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>auguszero-BTTool</artifactId>
-	<groupId>com.bttool</groupId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>BT-JAVA18</module>
+    </modules>
+    <groupId>com.bttool</groupId>
     <name>auguszero-BTTool</name>
     <version>1.0-SNAPSHOT</version>
     <properties>
