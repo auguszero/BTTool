@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6988cff0-21ec-43b8-87c3-0ecde532e3f0" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/webmagic/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/Boot1.java" />
@@ -9,11 +10,334 @@
       <change beforePath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/Boot.java" afterPath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/Boot.java" />
       <change beforePath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/KeyAd.java" afterPath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/KeyAd.java" />
+=======
+<<<<<<< HEAD
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_10_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/BT-Netty.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/client/EchoClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoClientHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoServerHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Header.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Message.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageDecoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageEncoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/server/EchoServer.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/forurl/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/ForurlApplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/Swagger2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/controller/RoomController.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/model/ResponseBackResult.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/service/RoomService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/urlMain/MainClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/webMagic/WebMagic.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/main/resources/application.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/forurl/src/test/java/com/douyu/forurl/ForurlApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/javaTooRepository" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/09afa861-d5be-45b4-be96-cef2c0124795" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/18feba59-ec66-4e0d-ac25-8d03dc9b01fa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/1e687235-8b7d-4438-9fa9-a01590fc21cd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/21a9326d-aa6c-4b23-a4c5-76465aba3784" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/227ee910-c056-47c8-9828-58ceed213cfe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/352c9275-0279-4008-b9f5-b4216a239f13" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4191beca-27b3-44d5-b0ad-166c64818c6b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/42d742e9-1391-41b4-899d-86229ae6815e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4a3251bd-e086-41a7-b38d-e14088cecb37" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/8bdcc61e-04c6-4333-adfa-90ce9861acbf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/_metadata" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-25/f779411e-336e-4034-987c-0a4a1974b1f0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/029e5fa5-a083-4068-b393-717cc687d033" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/0359a66e-2af5-49f9-a926-41fe47c0902b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/07406faa-e364-4bc6-b448-dfefac35ff4d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/15be8a1e-f489-44d4-82b7-2c1e1bce0143" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/17740108-8d10-4c3e-a486-25b720edba43" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/1e4c0794-6c62-4bcb-ab74-46a6a0157f7a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/2ed2d515-5c79-4cad-a528-f016a35734ef" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/4de498ae-aec3-4a90-9cad-b139960f4b96" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/711bb095-7eea-435e-8d75-77f16c9cf9d5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/_metadata" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/ca4b168a-b886-4acb-995b-4ce4edaa0c9f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/28d37c65-571c-4b4c-8d39-473d156448bb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/2e3e41b3-2fdb-4b9a-a06f-333880fd308a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/50aea0dc-2c49-47c2-9365-0f8a6c6b86c4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/5965f992-6725-4a7b-a977-ff671efdbbe7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/79491bb9-19be-492f-8eec-4ab4f8d292fe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/84bdb4e5-0a42-436e-b58f-44125fc52f11" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/8b83d2d4-f8a3-4efc-bf3c-19d2de23639e" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/_metadata" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e63e1c8f-7159-4157-ae9d-29278cfe1d40" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e95a952f-d90d-4cd7-8122-52d05824ca49" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/f2f23c88-74bd-403e-9309-25a7186f46e8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/0d599a8c-3955-40d9-9d95-0baf3665a68f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/6450a896-3a52-410f-bd7e-43754f2e1b94" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/81a1664b-985f-4ab6-bab0-ff4a047fd116" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/84c64344-5798-4f54-a12f-98176c5d564c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/8853017e-a884-4916-ba28-2922e4f0a518" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/96fefad3-48e6-499b-ae07-b4550cff8812" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/9dd93b2a-883f-4cd9-af13-efa83b172392" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/_metadata" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/afd82572-b17c-4160-b4b4-5eac566021fe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/e35082b3-bcb5-487f-8907-cc61e0efa764" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/ea636aed-024e-409c-b44d-579c6f21b290" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/0e9476c0-3aef-47a1-9e77-9f8613e9b51f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/2d118b11-051d-4115-8bb9-ce647b139242" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/38f3c533-d95a-49e5-961f-d29ab9bc80b7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/5e0db326-3b43-4dd9-9ea4-b039b7f4e7c8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/81be2b1c-d3af-4be0-97e8-74342da81e06" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/bd80f96c-2008-4596-8f38-1b7a6b419001" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/c12ff7ce-e7c6-45ec-b345-92fbcfd77f2a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/cd359e70-399a-4890-9d8c-8b93932b0f45" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/e2aef0cc-7f4e-4f13-b007-20919cfd94dc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/f12b0d2b-f18b-4979-bad2-b699e9815a56" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" afterPath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/Boot1.java" afterPath="$PROJECT_DIR$/webmagic/src/main/java/webSocket/Boot1.java" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_avro_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_dropwizard_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_5_0_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_7_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_24_Final_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_statebackend_rocksdb_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_force_shading_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_2_12_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_0_10_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_4_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_config_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_avro_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_clients_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_java_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_optimizer_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_5_0_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_7_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_24_Final_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_statebackend_rocksdb_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_flink_table_2_11_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_apache_flink_force_shading_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_javassist_javassist_3_19_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_rocksdb_rocksdbjni_5_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_tukaani_xz_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/SourceFunctionE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/EventTimeDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/eventTime/TimeStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/iterator/IteratorStreaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/CounterMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/GaugeMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramDropWizardMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/HistogramMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterDropWizardMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/debugging/metrics/MeterMyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/model/EModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableResouce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/table/TableStreamingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/BTJAVA18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/java18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalDateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/stream/StreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-JAVA18/src/test/java/com/bttool/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/controller/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/model/ResponseBackResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/service/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/urlMain/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forurl/src/main/java/com/douyu/forurl/webMagic/WebMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaTooRepository" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/09afa861-d5be-45b4-be96-cef2c0124795" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/18feba59-ec66-4e0d-ac25-8d03dc9b01fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/1e687235-8b7d-4438-9fa9-a01590fc21cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/21a9326d-aa6c-4b23-a4c5-76465aba3784" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/227ee910-c056-47c8-9828-58ceed213cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/352c9275-0279-4008-b9f5-b4216a239f13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4191beca-27b3-44d5-b0ad-166c64818c6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/42d742e9-1391-41b4-899d-86229ae6815e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/4a3251bd-e086-41a7-b38d-e14088cecb37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/8bdcc61e-04c6-4333-adfa-90ce9861acbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-24/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/1a442c9a6375c3d14a554426fef7d2c4/chk-25/f779411e-336e-4034-987c-0a4a1974b1f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/029e5fa5-a083-4068-b393-717cc687d033" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/0359a66e-2af5-49f9-a926-41fe47c0902b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/07406faa-e364-4bc6-b448-dfefac35ff4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/15be8a1e-f489-44d4-82b7-2c1e1bce0143" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/17740108-8d10-4c3e-a486-25b720edba43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/1e4c0794-6c62-4bcb-ab74-46a6a0157f7a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/2ed2d515-5c79-4cad-a528-f016a35734ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/4de498ae-aec3-4a90-9cad-b139960f4b96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/711bb095-7eea-435e-8d75-77f16c9cf9d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/37d3472012f70c8fa27280f12a373854/chk-47/ca4b168a-b886-4acb-995b-4ce4edaa0c9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/28d37c65-571c-4b4c-8d39-473d156448bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/2e3e41b3-2fdb-4b9a-a06f-333880fd308a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/50aea0dc-2c49-47c2-9365-0f8a6c6b86c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/5965f992-6725-4a7b-a977-ff671efdbbe7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/79491bb9-19be-492f-8eec-4ab4f8d292fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/84bdb4e5-0a42-436e-b58f-44125fc52f11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/8b83d2d4-f8a3-4efc-bf3c-19d2de23639e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e63e1c8f-7159-4157-ae9d-29278cfe1d40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/e95a952f-d90d-4cd7-8122-52d05824ca49" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/547a62c2bc550dd877ed60b57f1cb07e/chk-26/f2f23c88-74bd-403e-9309-25a7186f46e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/0d599a8c-3955-40d9-9d95-0baf3665a68f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/6450a896-3a52-410f-bd7e-43754f2e1b94" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/81a1664b-985f-4ab6-bab0-ff4a047fd116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/84c64344-5798-4f54-a12f-98176c5d564c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/8853017e-a884-4916-ba28-2922e4f0a518" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/96fefad3-48e6-499b-ae07-b4550cff8812" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/9dd93b2a-883f-4cd9-af13-efa83b172392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/afd82572-b17c-4160-b4b4-5eac566021fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/e35082b3-bcb5-487f-8907-cc61e0efa764" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-5/ea636aed-024e-409c-b44d-579c6f21b290" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/0e9476c0-3aef-47a1-9e77-9f8613e9b51f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/2d118b11-051d-4115-8bb9-ce647b139242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/38f3c533-d95a-49e5-961f-d29ab9bc80b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/5e0db326-3b43-4dd9-9ea4-b039b7f4e7c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/81be2b1c-d3af-4be0-97e8-74342da81e06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/bd80f96c-2008-4596-8f38-1b7a6b419001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/c12ff7ce-e7c6-45ec-b345-92fbcfd77f2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/cd359e70-399a-4890-9d8c-8b93932b0f45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/e2aef0cc-7f4e-4f13-b007-20919cfd94dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/a055e11508cdc3cdf3462ceeecf05e5a/chk-6/f12b0d2b-f18b-4979-bad2-b699e9815a56" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/java/webMagic/WebMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/java/webMagic/WebMagic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/src/main/resource/guessGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webmagic/webmagic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GrepConsole.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4a7156d4-45d7-447e-ab20-880f1e7acf35.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4a7156d4-45d7-447e-ab20-880f1e7acf35.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Flink/BT-Flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Flink/BT-Flink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Flink/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Flink/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT-Spark/auguszero-BTSaprk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BT-Spark/auguszero-BTSaprk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auguszero-BTTool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auguszero-BTTool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/BT-Spark/target/" />
     <ignored path="$PROJECT_DIR$/BT-Flink/target/" />
     <ignored path="$PROJECT_DIR$/BT-JAVA18/target/" />
+    <ignored path="$PROJECT_DIR$/BTNetty/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +347,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="EchoServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/server/EchoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2094#3005#0" expanded="true" />
+                <element signature="e#3004#3005#0" expanded="true" />
+              </folding>
+=======
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
         <entry file="file://$PROJECT_DIR$/BT-JAVA18/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="329">
@@ -36,33 +376,68 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BT-Hbase/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="608">
               <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
               <folding />
+=======
+            <state relative-caret-position="480">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstantDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/InstantDemo.java">
+      <file leaf-file-name="EchoServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="190">
               <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
               <folding />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="171">
+              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <folding />
+=======
+            <state relative-caret-position="150">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="40" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InitLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/lock/InitLock.java">
+      <file leaf-file-name="ByteBuf.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/buffer/ByteBuf.class">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="931">
               <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="297">
+              <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+              <folding />
+=======
+            <state relative-caret-position="735">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="ByteToMessageDecoder.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/handler/codec/ByteToMessageDecoder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+=======
       <file leaf-file-name="OutMemory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,30 +453,88 @@
       <file leaf-file-name="UserModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/model/UserModel.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="114">
               <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+=======
+            <state relative-caret-position="90">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1554689793538" expanded="false" signature="146:509" ph="..." />
+                <marker date="1554689793538" expanded="false" signature="666:794" ph="cumulate(alloc, cumulation, in) → {" />
+                <marker date="1554689793538" expanded="false" signature="1240:1251" ph="}" />
+                <marker date="1554689793538" expanded="false" signature="1330:1458" ph="cumulate(alloc, cumulation, in) → {" />
+                <marker date="1554689793538" expanded="false" signature="2215:2226" ph="}" />
+                <marker date="1554689793538" expanded="true" signature="2501:2621" ph="{...}" />
+                <marker date="1554689793538" expanded="false" signature="2676:2687" ph=" { " />
+                <marker date="1554689793538" expanded="false" signature="2720:2726" ph=" }" />
+                <marker date="1554689793538" expanded="false" signature="2763:2774" ph=" { " />
+                <marker date="1554689793538" expanded="false" signature="2799:2805" ph=" }" />
+                <marker date="1554689793538" expanded="true" signature="2878:3042" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="3104:3313" ph="{...}" />
+                <marker date="1554689793538" expanded="false" signature="3354:3365" ph=" { " />
+                <marker date="1554689793538" expanded="false" signature="3410:3416" ph=" }" />
+                <marker date="1554689793538" expanded="false" signature="3456:3467" ph=" { " />
+                <marker date="1554689793538" expanded="false" signature="3540:3546" ph=" }" />
+                <marker date="1554689793538" expanded="true" signature="3629:4137" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="4218:4225" ph="{}" />
+                <marker date="1554689793538" expanded="true" signature="4311:6381" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="6478:6745" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="6845:6962" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="7044:7337" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="7387:7544" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="7622:7673" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="7766:7933" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="8044:9565" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="9657:9905" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="9994:11473" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="11694:11782" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="11878:12109" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="12142:12226" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KafkaDemo01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java">
+      <file leaf-file-name="ChannelInboundHandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="228">
               <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="76">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+=======
+            <state relative-caret-position="180">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1554689793538" expanded="true" signature="282:289" ph="{}" />
+                <marker date="1554689793538" expanded="true" signature="369:413" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="495:541" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="617:657" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="735:777" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="863:904" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="986:1032" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="1125:1173" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="1261:1313" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="1408:1455" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KafkaConsumer.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <file leaf-file-name="ChannelHandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="665">
               <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
               <folding>
@@ -158,6 +591,25 @@
                 <marker date="1542441321248" expanded="true" signature="29300:29681" ph="{...}" />
                 <marker date="1542441321248" expanded="true" signature="29710:29821" ph="{...}" />
               </folding>
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="114">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1554689793538" expanded="false" signature="140:257" ph="..." />
+                <marker date="1554689793538" expanded="true" signature="386:393" ph="{}" />
+                <marker date="1554689793538" expanded="true" signature="434:609" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="643:1012" ph="{...}" />
+                <marker date="1554689793538" expanded="true" signature="1087:1094" ph="{}" />
+                <marker date="1554689793538" expanded="true" signature="1171:1178" ph="{}" />
+                <marker date="1554689793538" expanded="true" signature="1273:1320" ph="{...}" />
+              </folding>
+=======
+            <state relative-caret-position="525">
+              <caret line="91" column="35" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
             </state>
           </provider>
         </entry>
@@ -197,8 +649,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/Demo1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/Generator.java" />
         <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset/DataSetAllroundTestProgram.java" />
         <option value="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream/artificialstate/builder/ArtificialListStateBuilder.java" />
@@ -240,6 +690,16 @@
         <option value="$PROJECT_DIR$/BT-JAVA18/pom.xml" />
         <option value="$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/jvm/OutMemory.java" />
         <option value="$PROJECT_DIR$/webmagic/src/main/resource/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BTNetty/pom.xml" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Header.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Message.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageDecoder.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageEncoder.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/client/EchoClient.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/server/EchoServer.java" />
       </list>
     </option>
   </component>
@@ -290,10 +750,22 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="982" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -313,6 +785,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,6 +806,9 @@
             <path>
               <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="BT-Spark" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="BT-Flink" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -356,21 +842,17 @@
               <item name="BTTool" type="462c0819:PsiDirectoryNode" />
               <item name="webmagic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
+              <item name="BTNetty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTTool" type="462c0819:PsiDirectoryNode" />
               <item name="webmagic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTTool" type="462c0819:PsiDirectoryNode" />
-              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
@@ -411,14 +893,48 @@
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auguszero-BTTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.netty:netty-all:4.1.10.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="netty-all-4.1.10.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
+              <item name="channel" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
+=======
+<<<<<<< HEAD
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+=======
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,21 +943,15 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BTNetty" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/BT-Flink/src/main" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bttool.debugging.metrics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BT-Flink/src/main/scala" />
@@ -449,6 +959,12 @@
       <recent name="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataStream" />
       <recent name="$PROJECT_DIR$/BT-Flink/src/main/resource" />
       <recent name="$PROJECT_DIR$/BT-Flink/src/main/java/com/bttool/dataset" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bttool.debugging.metrics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BT-Flink/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -463,15 +979,33 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.EchoServer">
+    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+=======
   <component name="RunManager" selected="JUnit.OutMemory.OOMError">
     <configuration name="InitLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <extension name="coverage" enabled="false" merge="false" runner="idea">
+=======
+      <option name="MAIN_CLASS_NAME" value="com.bttool.lock.InitLock" />
+      <module name="BTJAVA18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
         <pattern>
-          <option name="PATTERN" value="com.bttool.lock.*" />
+          <option name="PATTERN" value="com.bttool.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="com.bttool.lock.InitLock" />
+=======
+<<<<<<< HEAD
+      <option name="MAIN_CLASS_NAME" value="com.bttool.client.EchoClient" />
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -480,8 +1014,34 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
+<<<<<<< HEAD
       <module name="BTJAVA18" />
       <envs />
+=======
+      <module name="BT-Netty" />
+      <envs />
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bttool.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.bttool.server.EchoServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BT-Netty" />
+      <envs />
+=======
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -547,6 +1107,8 @@
       <envs />
       <patterns />
     </configuration>
+<<<<<<< HEAD
+=======
     <configuration name="OutMemory.StatckOverFlowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -572,6 +1134,7 @@
       <envs />
       <patterns />
     </configuration>
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
     <configuration name="OutMemory.constantPoolOOMError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -669,6 +1232,7 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.OutMemory.OOMError" />
       <item index="1" class="java.lang.String" itemvalue="Application.InitLock" />
@@ -684,6 +1248,41 @@
         <item index="2" class="java.lang.String" itemvalue="JUnit.OutMemory.StatckOOMError" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.OutMemory.StatckOverFlowError" />
         <item index="4" class="java.lang.String" itemvalue="Application.InitLock" />
+=======
+<<<<<<< HEAD
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.OutMemory.OOMError" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OutMemory.StatckOOMError" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.OutMemory.methodOOMError" />
+      <item index="4" class="java.lang.String" itemvalue="Application.EchoServer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.EchoClient" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.EchoClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EchoServer" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.OutMemory.methodOOMError" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.OutMemory.StatckOOMError" />
+=======
+    <list>
+      <item itemvalue="JUnit.OutMemory.OOMError" />
+      <item itemvalue="Application.InitLock" />
+      <item itemvalue="JUnit.OutMemory.StatckOverFlowError" />
+      <item itemvalue="JUnit.OutMemory.StatckOOMError" />
+      <item itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+      <item itemvalue="JUnit.OutMemory.methodOOMError" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OutMemory.methodOOMError" />
+        <item itemvalue="JUnit.OutMemory.constantPoolOOMError" />
+        <item itemvalue="JUnit.OutMemory.StatckOOMError" />
+        <item itemvalue="JUnit.OutMemory.StatckOverFlowError" />
+        <item itemvalue="Application.InitLock" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       </list>
     </recent_temporary>
   </component>
@@ -738,7 +1337,15 @@
       <workItem from="1553570792951" duration="38000" />
       <workItem from="1553570858555" duration="4353000" />
       <workItem from="1553679942017" duration="812000" />
+<<<<<<< HEAD
       <workItem from="1554108727091" duration="26000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1554108727091" duration="661000" />
+      <workItem from="1554688931893" duration="6814000" />
+=======
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     </task>
     <task id="LOCAL-00001" summary="flink-first">
       <created>1547713200716</created>
@@ -747,7 +1354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547713200716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改 Boot 更改为单线程">
+      <created>1554108783573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554108783573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -783,25 +1397,49 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="45763000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="53212000" />
+=======
+    <option name="totallyTimeSpent" value="45737000" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+<<<<<<< HEAD
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32752994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30666667" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36205128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36205128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30576715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18869936" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -809,16 +1447,59 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4851282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4851282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.36205128" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30666667" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2851038" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="bottom" id="Tail" order="8" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4851282" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32820514" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -862,7 +1543,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="flink-first" />
-    <option name="LAST_COMMIT_MESSAGE" value="flink-first" />
+    <MESSAGE value="修改 Boot 更改为单线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改 Boot 更改为单线程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,7 +1579,14 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/kafka/KafkaDemo01.java">
+=======
+<<<<<<< HEAD
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table_2.11/1.7.0/flink-table_2.11-1.7.0.jar!/org/apache/flink/table/api/java/StreamTableEnvironment.class">
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
@@ -1040,8 +1729,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" />
+=======
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
     <entry file="file://$PROJECT_DIR$/BT-JAVA18/src/main/java/com/bttool/datetime/LocalDateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
@@ -1174,6 +1867,10 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.10.2.1/kafka-clients-0.10.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
         <state relative-caret-position="665">
           <caret line="91" column="35" lean-forward="false" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
           <folding>
@@ -1195,8 +1892,14 @@
             <marker date="1542441321248" expanded="true" signature="14353:15721" ph="{...}" />
             <marker date="1542441321248" expanded="true" signature="15775:17334" ph="{...}" />
             <marker date="1542441321248" expanded="true" signature="17419:18333" ph="{...}" />
+<<<<<<< HEAD
             <marker date="1542441321248" expanded="false" signature="18030:18098" ph="shouldBlock() → {" />
             <marker date="1542441321248" expanded="false" signature="18189:18208" ph="}" />
+=======
+            <marker date="1542441321248" expanded="true" signature="18050:18208" ph="{...}" />
+            <marker date="1542441321248" expanded="false" signature="18096:18119" ph=" { " />
+            <marker date="1542441321248" expanded="false" signature="18176:18194" ph=" }" />
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
             <marker date="1542441321248" expanded="true" signature="18364:18573" ph="{...}" />
             <marker date="1542441321248" expanded="true" signature="18650:18847" ph="{...}" />
             <marker date="1542441321248" expanded="false" signature="18878:18889" ph=" { " />
@@ -1230,6 +1933,13 @@
             <marker date="1542441321248" expanded="true" signature="29300:29681" ph="{...}" />
             <marker date="1542441321248" expanded="true" signature="29710:29821" ph="{...}" />
           </folding>
+<<<<<<< HEAD
+=======
+=======
+        <state relative-caret-position="525">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="35" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
         </state>
       </provider>
     </entry>
@@ -1252,7 +1962,7 @@
         <state relative-caret-position="228">
           <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1286,7 +1996,7 @@
         <state relative-caret-position="114">
           <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1304,7 +2014,312 @@
         <state relative-caret-position="1197">
           <caret line="67" column="14" lean-forward="false" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT-Spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="e#1248#1249#0" expanded="false" />
+            <element signature="e#1274#1275#0" expanded="false" />
+            <element signature="e#1310#1311#0" expanded="false" />
+            <element signature="e#1340#1341#0" expanded="false" />
+            <element signature="e#1371#1372#0" expanded="false" />
+            <element signature="e#1400#1401#0" expanded="false" />
+            <element signature="e#1442#1443#0" expanded="false" />
+            <element signature="e#1478#1479#0" expanded="false" />
+            <element signature="e#1510#1511#0" expanded="false" />
+            <element signature="e#1540#1541#0" expanded="false" />
+            <element signature="e#1584#1585#0" expanded="false" />
+            <element signature="e#1622#1623#0" expanded="false" />
+            <element signature="e#1654#1655#0" expanded="false" />
+            <element signature="e#1684#1685#0" expanded="false" />
+            <element signature="e#1728#1729#0" expanded="false" />
+            <element signature="e#1766#1767#0" expanded="false" />
+            <element signature="e#1798#1799#0" expanded="false" />
+            <element signature="e#1828#1829#0" expanded="false" />
+            <element signature="e#1872#1873#0" expanded="false" />
+            <element signature="e#1910#1911#0" expanded="false" />
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#1978#1979#0" expanded="false" />
+            <element signature="e#2028#2029#0" expanded="false" />
+            <element signature="e#2070#2071#0" expanded="false" />
+            <element signature="e#2100#2101#0" expanded="false" />
+            <element signature="e#2129#2130#0" expanded="false" />
+            <element signature="e#2170#2171#0" expanded="false" />
+            <element signature="e#2206#2207#0" expanded="false" />
+            <element signature="e#2237#2238#0" expanded="false" />
+            <element signature="e#2267#2268#0" expanded="false" />
+            <element signature="e#2310#2311#0" expanded="false" />
+            <element signature="e#2348#2349#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#439#440#0" expanded="false" />
+            <element signature="e#475#476#0" expanded="false" />
+            <element signature="e#506#507#0" expanded="false" />
+            <element signature="e#533#534#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#605#606#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
+            <element signature="e#678#679#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="false" signature="151:977" ph="..." />
+            <marker date="1554689793538" expanded="true" signature="1526:1730" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="1767:1778" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="1821:1827" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="1889:1900" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="1926:1932" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="2015:2179" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="2224:2235" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2282:2288" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="2327:2338" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2354:2360" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="2407:2418" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2437:2443" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="2474:2485" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2530:2536" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="2582:2593" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2605:2611" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="2679:2761" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="2806:2817" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2884:2890" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="2963:3213" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="3261:3304" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="3374:3908" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4016:4074" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4130:4188" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="4234:4245" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="4257:4263" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="4316:4374" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4468:4526" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4606:4664" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4760:5035" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4864:4915" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="4957:4972" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="5019:5029" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="false" signature="140:372" ph="..." />
+            <marker date="1554689793538" expanded="true" signature="552:570" ph="/**...*/" />
+            <marker date="1554689793538" expanded="true" signature="679:777" ph="@{...}" />
+            <marker date="1554689793538" expanded="true" signature="809:816" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelPipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="33" column="37" lean-forward="false" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="false" signature="140:257" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="false" signature="140:257" ph="..." />
+            <marker date="1554689793538" expanded="true" signature="386:393" ph="{}" />
+            <marker date="1554689793538" expanded="true" signature="434:609" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="643:1012" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="1087:1094" ph="{}" />
+            <marker date="1554689793538" expanded="true" signature="1171:1178" ph="{}" />
+            <marker date="1554689793538" expanded="true" signature="1273:1320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/handler/codec/ByteToMessageDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="false" signature="146:509" ph="..." />
+            <marker date="1554689793538" expanded="false" signature="666:794" ph="cumulate(alloc, cumulation, in) → {" />
+            <marker date="1554689793538" expanded="false" signature="1240:1251" ph="}" />
+            <marker date="1554689793538" expanded="false" signature="1330:1458" ph="cumulate(alloc, cumulation, in) → {" />
+            <marker date="1554689793538" expanded="false" signature="2215:2226" ph="}" />
+            <marker date="1554689793538" expanded="true" signature="2501:2621" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="2676:2687" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2720:2726" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="2763:2774" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="2799:2805" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="2878:3042" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="3104:3313" ph="{...}" />
+            <marker date="1554689793538" expanded="false" signature="3354:3365" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="3410:3416" ph=" }" />
+            <marker date="1554689793538" expanded="false" signature="3456:3467" ph=" { " />
+            <marker date="1554689793538" expanded="false" signature="3540:3546" ph=" }" />
+            <marker date="1554689793538" expanded="true" signature="3629:4137" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="4218:4225" ph="{}" />
+            <marker date="1554689793538" expanded="true" signature="4311:6381" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="6478:6745" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="6845:6962" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="7044:7337" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="7387:7544" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="7622:7673" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="7766:7933" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="8044:9565" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="9657:9905" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="9994:11473" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="11694:11782" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="11878:12109" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="12142:12226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/buffer/ByteBuf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/client/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/model/MessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.10.Final/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1554689793538" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1554689793538" expanded="true" signature="282:289" ph="{}" />
+            <marker date="1554689793538" expanded="true" signature="369:413" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="495:541" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="617:657" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="735:777" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="863:904" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="986:1032" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="1125:1173" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="1261:1313" ph="{...}" />
+            <marker date="1554689793538" expanded="true" signature="1408:1455" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/handler/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTNetty/src/main/java/com/bttool/server/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+          <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+            <element signature="e#2094#3005#0" expanded="true" />
+            <element signature="e#3004#3005#0" expanded="true" />
+=======
+            <element signature="e#2138#2146#0" expanded="true" />
+>>>>>>> e61964c898f1859650fefba336182ea06751cc5f
+>>>>>>> 70ef625eb5d4ea7a60d0061fed2adf4f20b553c7
           </folding>
         </state>
       </provider>
@@ -1338,7 +2353,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.12</last-edited>
+          <last-edited>scala-sdk-2.11.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1362,11 +2377,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BTJAVA18</last-edited>
+          <last-edited>BT-Netty</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
