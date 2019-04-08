@@ -15,7 +15,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class Boot1 {
 
-    public static boolean flage = true;
+    public static boolean flage = false;
     public static int index = 0;
     public static ReentrantLock reentrantLock = new ReentrantLock();
 
@@ -28,7 +28,7 @@ public class Boot1 {
         int args6 = Integer.parseInt(args[5]);
         int args7 = Integer.parseInt(args[6]);
         int num = Integer.parseInt(args[7]);
-//        KeyAd keyAd = new KeyAd();
+        KeyAd keyAd = new KeyAd();
         buttonInsert(args1, args2, args3, args4, args5, args6,args7 ,num);
         System.out.println(1);
 

@@ -45,4 +45,6 @@ public class StatusModel {
 
     public static int GUESS_NO_CODE = 300; // 不存在code
 
+    public static String BEGINGUESS = "beginGuess ";
+
 }
