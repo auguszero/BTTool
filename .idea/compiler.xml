@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="auguszero-BTSaprk" />
         <module name="BT-Flink" />
+        <module name="BT-Netty" />
         <module name="BTJAVA18" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="auguszero-BTSaprk" target="1.8" />
       <module name="auguszero-BTTool" target="1.8" />
       <module name="BT-Flink" target="1.8" />
+      <module name="BT-Netty" target="1.8" />
       <module name="BTFlink" target="1.8" />
       <module name="BTJAVA18" target="1.8" />
     </bytecodeTargetLevel>

@@ -57,15 +57,15 @@ public class Boot1 {
                     robot.mouseMove(args1, args2);
                     robot.mousePress(InputEvent.BUTTON1_MASK);
                     robot.mouseRelease(InputEvent.BUTTON1_MASK);
-                    Thread.sleep(25);
+                    Thread.sleep(13);
                     robot.mouseMove(args3, args4);
                     robot.mousePress(InputEvent.BUTTON1_MASK);
                     robot.mouseRelease(InputEvent.BUTTON1_MASK);
-                    Thread.sleep(25);
+                    Thread.sleep(13);
                     robot.mouseMove(args5, args6);
                     robot.mousePress(InputEvent.BUTTON1_MASK);
                     robot.mouseRelease(InputEvent.BUTTON1_MASK);
-                    Thread.sleep(25);
+                    Thread.sleep(13);
                 }
             }
         } catch (Exception e) {

@@ -8,6 +8,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>BT-JAVA18</module>
+        <module>BTNetty</module>
     </modules>
     <groupId>com.bttool</groupId>
     <name>auguszero-BTTool</name>

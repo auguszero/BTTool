@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/BT-Spark/pom.xml" />
         <option value="$PROJECT_DIR$/BT-Flink/pom.xml" />
+        <option value="$PROJECT_DIR$/BTNetty/pom.xml" />
       </list>
     </option>
   </component>
